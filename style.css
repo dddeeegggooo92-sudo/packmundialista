@@ -74,7 +74,8 @@ section {
 }
 
 .section-title {
-    font-family: 'Anton', 'Bebas Neue', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
     font-size: 2.2rem;
     line-height: 1.1;
     letter-spacing: 1px;
@@ -177,7 +178,8 @@ section {
 }
 
 .main-title {
-    font-family: 'Anton', 'Bebas Neue', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
     font-size: 2.8rem;
     line-height: 1.05;
     letter-spacing: 1px;
@@ -671,7 +673,8 @@ section {
 .huge-statement {
     background: linear-gradient(135deg, var(--gold-accent) 0%, #e0ae1d 100%);
     color: #000000;
-    font-family: 'Anton', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
     font-size: 1.5rem;
     letter-spacing: 0.5px;
     padding: 16px 20px;
@@ -800,7 +803,8 @@ section {
 }
 
 .bonus-title {
-    font-family: 'Anton', 'Bebas Neue', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
     font-size: 1.8rem;
     line-height: 1.1;
     color: var(--text-white);
@@ -918,7 +922,8 @@ section {
 }
 
 .timer-display {
-    font-family: 'Anton', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
     font-size: 2.5rem;
     color: #ffffff;
     letter-spacing: 2px;
@@ -1035,7 +1040,8 @@ section {
 }
 
 .final-title {
-    font-family: 'Anton', 'Bebas Neue', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
     font-size: 2.4rem;
     line-height: 1.1;
     color: var(--text-white);
@@ -1075,7 +1081,8 @@ section {
 }
 
 .price-current {
-    font-family: 'Anton', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
     font-size: 3.5rem;
     color: var(--gold-accent);
     line-height: 1;
